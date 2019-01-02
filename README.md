@@ -11,3 +11,6 @@ Using environmental data from the cities San Juan and Iquitos to predict the num
 
 ## Data:
 	dataset csv and preprocessed csv are in 'data' folder
+
+## Submission
+![alt text](Screenshot_2019-01-02%20DengAI%20Predicting%20Disease%20Spread.png)
